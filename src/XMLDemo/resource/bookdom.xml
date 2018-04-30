@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><bookstore>
+<book id="1">
+<name>瓦尔登湖</name>
+<age>88</age>
+<price>28.9</price>
+<year>2009</year>
+</book>
+<book id="2">
+<name>瓦尔登湖</name>
+<age>88</age>
+<price>28.9</price>
+<year>2009</year>
+</book>
+</bookstore>

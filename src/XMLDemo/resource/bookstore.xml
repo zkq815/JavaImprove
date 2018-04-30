@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding="utf-8"?>
+
+<bookstore>
+    <book id="1">
+        <name>红与黑</name>
+        <author>zkq</author>
+        <years>2000</years>
+        <price>19.9</price>
+    </book>
+
+    <book id="2">
+        <name>黑与黑</name>
+        <years>2010</years>
+        <price>49.9</price>
+        <language>chinese</language>
+    </book>
+</bookstore>
+

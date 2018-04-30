@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><bookstore>
+<book id="1">
+<name>红与黑</name>
+<author>zkq</author>
+<price>19.9</price>
+</book>
+<book id="2">
+<name>黑与黑</name>
+<price>49.9</price>
+</book>
+</bookstore>
